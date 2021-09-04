@@ -1,3 +1,45 @@
 body {
   background-color: blanchedalmond;
 }
+
+#h1-style {
+  color: navy;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.h2-style {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkblue;
+  border: 3px solid darkblue;
+  padding: 5px;
+  width: 500px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#scott {
+  position: absolute;
+  top: 50px;
+  left: 25px;
+}
+
+#andy {
+  margin-top: 1100px;
+  left: 25px;
+}
+
+.pic-class {
+  border: 5px solid darkblue;
+}
+
+.ul-class {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 1.75em;
+  color: darkblue;
+}
